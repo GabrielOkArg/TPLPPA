@@ -1,0 +1,14 @@
+APP Remates
+
+
+************
+Capas:
+* DAL: Capa de datos
+* BE: capa de entidades 
+* BLL: Capa de logica del negocio
+* RematesAPP: capa de vista 
+************
+En la capa de datos (DAL) esta la carpeta de mocks para usuarios
+**************
+En la capa de RematesAPP (vista) estan las carpetas de js y sites para los archivos js y las secciones del portal
+ya esta creado el index.html para la home
